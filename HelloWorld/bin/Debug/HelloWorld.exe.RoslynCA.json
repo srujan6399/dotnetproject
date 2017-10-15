@@ -1,0 +1,1332 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "1.3.1.0",
+        "fileVersion": "1.3.1.60616",
+        "semanticVersion": "1.3.1",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.ArrayCovariance cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.ToStringNoNull cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.GetHashCodeMutable cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.GenericTypeParameterInOut cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.MethodParameterMissingOptional cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.StringConcatenationInLoop cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.ForLoopCounterChanged cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.MemberOverrideCallsBaseMember cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.LiteralSuffixUpperCase cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.FileLines cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.ConditionalStructureSameCondition cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.ConstructorOverridableCall cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.CommentTodo cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.SelfAssignment cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.ClassShouldNotBeAbstract cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.PropertyGetterWithThrow cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.RedundantToCharArrayCall cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.DelegateSubtraction cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.IfConditionalAlwaysTrueOrFalse cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.ConditionalSimplification cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.StaticFieldInGenericClass cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.EmptyMethod cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.RedundantPropertyNamesInAnonymousClass cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.StringFormatArgumentNumberMismatch cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.CommentedOutCode cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.VariableUnused cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.TooManyLabelsInSwitch cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.CatchEmpty cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.HardcodedIpAddress cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.CollectionQuerySimplification cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.ReversedOperators cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.OptionalParameterNotPassedToBaseCall cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.RedundantParentheses cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.MemberShadowsOuterStaticMember cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.GuardConditionOnEqualsOverride cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.RedundantInheritanceList cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.RightCurlyBraceStartsLine cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.MethodParameterUnused cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.TabCharacter cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.ObjectCreatedDropped cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.MethodName cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.FunctionNestingDepth cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.EqualityOnModulus cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.ReferenceEqualsOnValueType cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.MethodOverloadOptionalParameter cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.OrderByRepeated cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.SwitchDefaultClauseEmpty cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.AnonymousDelegateEventUnsubscribe cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.ValuesUselesslyIncremented cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.PublicMethodWithMultidimensionalArray cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.AsyncAwaitIdentifier cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.VirtualEventField cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.DisposeNotImplementingDispose cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.ParameterAssignedTo cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.GotoStatement cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.ClassWithOnlyStaticMember cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.MultilineBlocksWithoutBrace cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.UseValueParameter cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.MethodOverrideChangedDefaultValue cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.VariableShadowsField cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.GenericReadonlyFieldPropertyAssignment cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.SingleStatementPerLine cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.CastConcreteTypeToInterface cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.UnaryPrefixOperatorRepeated cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.PropertyToAutoProperty cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.FieldShouldBeReadonly cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.ArgumentSpecifiedForCallerInfoParameter cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.AssignmentInsideSubExpression cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.SuppressFinalizeUseless cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.InheritedCollidingInterfaceMembers cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.FieldShouldNotBePublic cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.FlagsEnumWithoutInitializer cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.FrameworkTypeNaming cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.IndexOfCheckAgainstZero cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.StaticFieldWrittenFromInstanceMember cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.EnumerableSumInUnchecked cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.StringFormatWithNoArgument cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.ExpressionComplexity cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.OptionalParameter cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.EmptyNestedBlock cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.ForLoopCounterCondition cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.BreakOutsideSwitch cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.InsecureHashAlgorithm cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.InvocationResolvesToOverrideWithParams cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.FunctionComplexity cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.SillyBitwiseOperation cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.LineLength cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.TaskConfigureAwait cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.TooManyParameters cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.DefaultBaseConstructorCall cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.DeadStores cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.GetHashCodeEqualsOverride cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.DisposableMemberInNonDisposableClass cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.TypeExaminationOnSystemType cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.GenericTypeParameterEmptinessChecking cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.ParametersCorrectOrder cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.DisposableReturnedFromUsing cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.PublicConstantField cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.SwitchWithoutDefault cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.ConditionalStructureSameImplementation cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.MultipleVariableDeclaration cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.RedundantCast cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.OptionalRefOutParameter cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.UnusedPrivateMember cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.DisposeFromDispose cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.GenericTypeParameterUnused cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.GetTypeWithIsAssignableFrom cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.TernaryOperatorPointless cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.ClassName cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.ConsoleLogging cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.IfCollapsible cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.StreamReadStatement cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.FieldInitializedToDefault cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.RedundantToStringCall cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.InvalidCastToInterface cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.FieldShadowsParentField cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.RedundantDeclaration cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.FlagsEnumZeroMember cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.RedundantModifier cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.ThreadStaticWithInitializer cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.StaticFieldVisible cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.PartialMethodNoImplementation cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.BooleanLiteralUnnecessary cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.ParameterNamesInPartialMethod cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.ThreadStaticNonStaticField cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.NonFlagsEnumInBitwiseOperation cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.EqualityOnFloatingPoint cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.EnumNameHasEnumSuffix cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.StringOperationWithoutCulture cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.PropertyWriteOnly cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.EmptyStatement cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.ShiftDynamicNotInteger cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.AsyncVoidMethod cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.ReferenceEqualityCheckWhenEqualsExists cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.InsecureEncryptionAlgorithm cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.BooleanCheckInverted cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.LockOnThisOrType cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.OptionalParameterWithDefaultValue cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.SwitchCasesMinimumThree cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.CommentFixme cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.ForeachLoopExplicitConversion cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.IfChainWithoutElse cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.StaticFieldInitializerOrder cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.CollectionEmptinessChecking cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.DisposableNotDisposed cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.UseCurlyBraces cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.RedundantArgument cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.ConditionalsWithSameCondition cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.CatchRethrow cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.MethodOverrideNoParams cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.LossOfFractionInDivision cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.ShortCircuitNullPointerDereference cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8032",
+          "level": "warning",
+          "message": "An instance of analyzer SonarLint.Rules.CSharp.BinaryOperationWithIdenticalExpressions cannot be created from C:\\Users\\manth\\AppData\\Local\\Temp\\.sonarqube\\resources\\0\\SonarAnalyzer.CSharp.dll : Could not load file or assembly 'SonarAnalyzer, Version=1.10.0.0, Culture=neutral, PublicKeyToken=c5b62af9de6d7244' or one of its dependencies. The system cannot find the file specified..",
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS0168",
+          "level": "warning",
+          "message": "The variable 'a' is declared but never used",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///G:/Dotnet/HelloWorld/HelloWorld/Program.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 17,
+                  "endLine": 14,
+                  "endColumn": 18
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0168",
+          "level": "warning",
+          "message": "The variable 'b' is declared but never used",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///G:/Dotnet/HelloWorld/HelloWorld/Program.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 17,
+                  "endLine": 15,
+                  "endColumn": 18
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0168",
+          "level": "warning",
+          "message": "The variable 'c' is declared but never used",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///G:/Dotnet/HelloWorld/HelloWorld/Program.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 17,
+                  "endLine": 16,
+                  "endColumn": 18
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        }
+      ],
+      "rules": {
+        "CS0168": {
+          "id": "CS0168",
+          "shortDescription": "Variable is declared but never used",
+          "defaultLevel": "warning",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8032": {
+          "id": "CS8032",
+          "shortDescription": "An analyzer instance cannot be created",
+          "defaultLevel": "warning",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

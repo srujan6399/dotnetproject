@@ -1,0 +1,8 @@
+G:\Dotnet\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+G:\Dotnet\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+G:\Dotnet\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+G:\Dotnet\HelloWorld\HelloWorld\bin\Debug\nunit.framework.dll
+G:\Dotnet\HelloWorld\HelloWorld\bin\Debug\nunit.framework.xml
+G:\Dotnet\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+G:\Dotnet\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+G:\Dotnet\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

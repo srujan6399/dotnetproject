@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AnalysisInput>
+  <Settings>
+    <Setting>
+      <Key>sonar.cs.ignoreHeaderComments</Key>
+      <Value>true</Value>
+    </Setting>
+  </Settings>
+  <Rules>
+  </Rules>
+  <Files>
+    <File>G:\Dotnet\HelloWorld\HelloWorld\Program.cs</File>
+    <File>G:\Dotnet\HelloWorld\HelloWorld\Properties\AssemblyInfo.cs</File>
+  </Files>
+</AnalysisInput>

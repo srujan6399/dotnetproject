@@ -1,0 +1,11 @@
+{
+  "ServerUri": "http://localhost:9000/",
+  "Organization": null,
+  "ProjectKey": "VS",
+  "Profiles": {
+    "CSharp": {
+      "ProfileKey": "cs-sonar-way-39257",
+      "ProfileTimestamp": "2017-08-12T09:19:46-05:00"
+    }
+  }
+}

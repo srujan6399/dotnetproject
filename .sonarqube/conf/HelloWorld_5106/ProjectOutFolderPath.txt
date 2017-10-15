@@ -1,0 +1,1 @@
+G:\Dotnet\HelloWorld\.sonarqube\out\\HelloWorld_5106

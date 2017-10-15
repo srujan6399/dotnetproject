@@ -1,0 +1,16 @@
+G:\Dotnet\HelloWorld\HelloWorldTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+G:\Dotnet\HelloWorld\HelloWorldTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+G:\Dotnet\HelloWorld\HelloWorldTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+G:\Dotnet\HelloWorld\HelloWorldTest\bin\Debug\HelloWorldTest.dll
+G:\Dotnet\HelloWorld\HelloWorldTest\bin\Debug\HelloWorldTest.pdb
+G:\Dotnet\HelloWorld\HelloWorldTest\bin\Debug\HelloWorld.exe
+G:\Dotnet\HelloWorld\HelloWorldTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+G:\Dotnet\HelloWorld\HelloWorldTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+G:\Dotnet\HelloWorld\HelloWorldTest\bin\Debug\nunit.framework.dll
+G:\Dotnet\HelloWorld\HelloWorldTest\bin\Debug\HelloWorld.pdb
+G:\Dotnet\HelloWorld\HelloWorldTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+G:\Dotnet\HelloWorld\HelloWorldTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+G:\Dotnet\HelloWorld\HelloWorldTest\bin\Debug\nunit.framework.xml
+G:\Dotnet\HelloWorld\HelloWorldTest\obj\Debug\HelloWorldTest.csprojResolveAssemblyReference.cache
+G:\Dotnet\HelloWorld\HelloWorldTest\obj\Debug\HelloWorldTest.dll
+G:\Dotnet\HelloWorld\HelloWorldTest\obj\Debug\HelloWorldTest.pdb

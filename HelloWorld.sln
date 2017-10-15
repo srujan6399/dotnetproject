@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{BA251819-A75A-41FB-AE22-84BD3D510FF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldTest", "HelloWorldTest\HelloWorldTest.csproj", "{24029AB9-DBA5-4BBC-82BF-0DB365A720DA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SonarQube", "SonarQube", "{16A9B5C0-82A5-4949-A852-6D6F53D92566}"
+	ProjectSection(SolutionItems) = preProject
+		SonarQube\SolutionBinding.sqconfig = SonarQube\SolutionBinding.sqconfig
+		SonarQube\VSCSharp.ruleset = SonarQube\VSCSharp.ruleset
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA251819-A75A-41FB-AE22-84BD3D510FF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA251819-A75A-41FB-AE22-84BD3D510FF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA251819-A75A-41FB-AE22-84BD3D510FF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA251819-A75A-41FB-AE22-84BD3D510FF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24029AB9-DBA5-4BBC-82BF-0DB365A720DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24029AB9-DBA5-4BBC-82BF-0DB365A720DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24029AB9-DBA5-4BBC-82BF-0DB365A720DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24029AB9-DBA5-4BBC-82BF-0DB365A720DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE69AA72-6CCF-4BE8-A35F-895BCED1570C}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://desktop-n968cfh:8080/tfs/practice%20collection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = HelloWorld\\HelloWorld.csproj
+		SccProjectName1 = HelloWorld
+		SccLocalPath1 = HelloWorld
+		SccProjectUniqueName2 = HelloWorldTest\\HelloWorldTest.csproj
+		SccProjectName2 = HelloWorldTest
+		SccLocalPath2 = HelloWorldTest
+	EndGlobalSection
+EndGlobal
